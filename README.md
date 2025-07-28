@@ -1,6 +1,6 @@
 # 🧑‍💻 Fernando Delbone
 
-**`Dados: Análise | Ciência | Banco de Dados`**
+**`Dados: Análise | Ciência | Banco de Dados | Machine Learning`**
 
 Olá! Meu nome é Fernando Delbone e sou estudante de Ciência da Computação na UTFPR.
 
