@@ -28,28 +28,6 @@ Paralelamente, dedico boa parte do meu tempo à **Iniciação Científica**, ond
 </div>
 
 ---
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FerDelbo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerDelbo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-
 ## 📣 Contato
 
 Estou aberto a novas oportunidades e conexões. Fique à vontade para entrar em contato:
